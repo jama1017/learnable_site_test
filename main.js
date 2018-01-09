@@ -8,9 +8,11 @@ $(function () {
 anime({
   targets: 'div.box.grey',
   opacity: .5,
-  left: '240px',
+  left: '40%',
+  translateY: '100%',
   backgroundColor: '#FFF',
-  borderRadius: ['0em', '2em'],
+  borderRadius: ['3em', '6em'],
   easing: 'easeInOutQuad',
+  direction: 'alternate',
   loop: true,
 });
