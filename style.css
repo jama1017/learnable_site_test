@@ -23,8 +23,18 @@ body,html {
     font-size: 1em
 }
 
+.box{
+  position:relative;
+  width:100px;
+  height:100px;
+  margin:4px;
+  display:inline-block;
+}
+
+.grey{background-color: #d3d3d3}
+
+
 .footer {
   color:#fff;
-  height:180px;
   background: #0E346B
 }

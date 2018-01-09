@@ -5,7 +5,12 @@ $(function () {
   });
 });
 
-var cssSelector = anime({
-  targets: '#cssSelector .el',
-  translateX: 250
+anime({
+  targets: 'div.box.grey',
+  opacity: .5,
+  left: '240px',
+  backgroundColor: '#FFF',
+  borderRadius: ['0em', '2em'],
+  easing: 'easeInOutQuad',
+  loop: true,
 });
