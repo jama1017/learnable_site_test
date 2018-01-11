@@ -10,15 +10,14 @@ body,html {
 }
 
 hr {
-  color: transparent;
-  background-color: transparent;
+  border: none;
 }
 
 .home-section {
   height:100%;
   background: url(../img/landing_animation.gif);
   background-size:cover;
-  backroudn-attachment:fixed;
+  /* background-attachment:fixed; */
   background-position: center;
 }
 
