@@ -75,7 +75,7 @@ hr {
 
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled {
   background-color: #fff !important;
-  transition: background-color linear;
+  transition: background-color 200 linear;
   box-shadow: 0px 2px 20px #dadada;
 }
 
