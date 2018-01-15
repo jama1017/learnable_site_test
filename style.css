@@ -87,8 +87,8 @@ hr {
   color: #000;
 }
 
-.navbar-dark .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml;..");
+.navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled .navbar-toggler{
+  background-color: #0364A6;
 }
 
 .btn-primary, .btn-primary:active{
