@@ -68,9 +68,9 @@ hr {
   left: 0;
   z-index: -1;
 
-  filter: blur(2px);
+  /* filter: blur(2px); */
 
-  background: url(../img/landingpage_animation_v3.0.gif);
+  background: url(../img/landingpage_animation_v3.5.gif);
   background-size:cover;
   background-position: center;
 }
