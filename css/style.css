@@ -60,6 +60,7 @@ hr {
   border: none;
 }
 
+/* not really useful right now but may be of use in the future */
 .bg-img {
   height:100%;
   width: 100%;
@@ -67,14 +68,12 @@ hr {
   top: 0;
   left: 0;
   z-index: -2;
-
-  /* filter: blur(2px); */
-
   background: url(../img/landingpage_animation_v3.5.gif);
   background-size:cover;
   background-position: center;
 }
 
+/* not really useful right now but may be of use in the future */
 .dark-overlay {
   background-color: rgba(11,11,11,0);
   position:absolute;
