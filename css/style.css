@@ -31,7 +31,7 @@ p {
 @media screen and (max-width: 768px) {
 
   h3 {
-    font-size: 20px;
+    font-size: 1.2em;
   }
 
   .logo_img {
@@ -45,15 +45,15 @@ p {
   }
 
   p {
-    font-size:12px;
+    font-size:0.9rem;
   }
 
   h2 {
-    font-size:20px;
+    font-size:1.3rem;
   }
 
   h5 {
-    font-size:15px;
+    font-size:1.1rem;
   }
 }
 
