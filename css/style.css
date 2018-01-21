@@ -20,7 +20,11 @@ body {
 }
 
 h3 {
-  font-size:30px;
+  font-size: 1.9rem;
+}
+
+p {
+  font-size: 1.2rem;
 }
 
 /* 768px is medium sreen size */
@@ -116,11 +120,11 @@ hr {
 }
 
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled .nav-link.active{
-  color: #0364A6;
+  color: #3FA9F5;
 }
 
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled .nav-link:hover{
-  color: #0364A6;
+  color: #3FA9F5;
 }
 
 /* .navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled .navbar-brand{
