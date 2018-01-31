@@ -9,6 +9,11 @@ body {
   position: relative;
 }
 
+.logo_img {
+  width:15%;
+  height:15%;
+}
+
 .coming-soon {
   height:100%;
   background-color: none;
@@ -22,7 +27,7 @@ body {
   position:absolute;
   top:0;
   left:0;
-  z-index: 1;
+  z-index: 0;
   width:100%;
   height:100%;
 }
@@ -37,4 +42,20 @@ body {
 
 .navbar.navbar-expand-lg.navbar-dark .nav-link:hover{
   color: #3FA9F5;
+}
+
+h1 {
+  font-size:6rem;
+}
+
+@media screen and (max-width: 768px) {
+
+  h1 {
+    font-size: 4rem;
+  }
+
+  .logo_img {
+    width:40%;
+    height:40%;
+  }
 }
