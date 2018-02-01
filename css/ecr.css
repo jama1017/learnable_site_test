@@ -49,6 +49,10 @@ hr {
   font-size:1.2rem;
 }
 
+.arrow {
+  color: #dadada;
+}
+
 /* 768px is medium sreen size */
 @media screen and (max-width: 768px) {
 
