@@ -36,18 +36,53 @@ h2 {
   box-shadow: 0px 2px 20px #d3d3d3;
 }
 
-.icon-latex {
-  width:20%;
-  height:20%;
-}
-
-.icon-magnifier {
+.icon {
   width:15%;
   height:15%;
 }
 
 hr {
     border: none;
+}
+
+.footer-info {
+  font-size:1.2rem;
+}
+
+/* 768px is medium sreen size */
+@media screen and (max-width: 768px) {
+
+  .intro-text{
+    font-size: 1rem;
+    letter-spacing: 0.02rem;
+    line-height: 2rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    letter-spacing: 0.1rem;
+    line-height: 3rem;
+  }
+
+  h3 {
+    font-size: 1.2em;
+  }
+
+  .footer-info {
+    font-size:0.9rem;
+  }
+
+  h2 {
+    font-size:1.3rem;
+  }
+
+  h5 {
+    font-size:1.1rem;
+  }
+}
+
+h3 {
+  font-size: 1.9rem;
 }
 
 .navbar.navbar-expand-lg.navbar-dark.fixed-top{
@@ -66,11 +101,16 @@ hr {
   color: #3FA9F5;
 }
 
-.navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled .navbar-toggler{
+.navbar.navbar-expand-lg.navbar-dark.fixed-top .navbar-toggler{
   background-color: #0364A6;
 }
 
 .footer {
   color:#fff;
   background: #0E346B
+}
+
+.copyright {
+  color:#dadada;
+  font-size: 12px;
 }
