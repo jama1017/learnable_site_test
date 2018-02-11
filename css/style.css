@@ -31,8 +31,8 @@ p {
   font-size: 1.2rem;
 }
 
-/* 768px is medium sreen size */
-@media screen and (max-width: 768px) {
+/* 992px is medium sreen size */
+@media screen and (max-width: 992px) {
 
   h3 {
     font-size: 1.2em;
