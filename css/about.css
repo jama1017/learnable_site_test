@@ -10,6 +10,11 @@ body {
   position: relative;
 }
 
+.inc {
+  font-family: "Lato", sans-serif;
+  color: #3FA9F5;
+}
+
 .logo_img {
   width:15%;
   height:15%;
@@ -108,7 +113,7 @@ hr {
 }
 
 h1 {
-  font-size:6rem;
+  font-size:3.5rem;
 }
 
 h4{
@@ -118,7 +123,7 @@ h4{
 @media screen and (max-width: 768px) {
 
   h1 {
-    font-size: 4rem;
+    /* font-size: rem; */
   }
 
   .logo_img {
