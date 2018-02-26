@@ -72,6 +72,16 @@ hr {
     width:50%;
 }
 
+.awards{
+  background-color: #fff;
+}
+
+.line{
+  width: 100%;
+  border-bottom: 2px solid;
+  /* position: absolute; */
+}
+
 .navbar {
   font-family: "Lato", sans-serif;
 }
