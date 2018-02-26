@@ -62,6 +62,12 @@ hr {
   font-size: 2rem;
 }
 
+.icon {
+  width:15%;
+  height:15%;
+  opacity: 0.6;
+}
+
 .half-width{
     width:50%;
 }
