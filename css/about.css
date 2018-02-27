@@ -82,6 +82,15 @@ hr {
   /* position: absolute; */
 }
 
+.award-img {
+    max-height:500px;
+    width: auto;
+    height: auto;
+    border: 1px solid #e9e9e9;
+}
+
+
+
 .navbar {
   font-family: "Lato", sans-serif;
 }
