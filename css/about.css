@@ -103,6 +103,12 @@ hr {
   background-color: #fff;
 }
 
+.pub-img {
+    max-height:500px;
+    width: auto;
+    height: auto;
+}
+
 /* hover effct section start: */
 
 .hovereffect {
