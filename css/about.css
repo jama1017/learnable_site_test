@@ -99,6 +99,13 @@ hr {
   background-color: #e9e9e9;
 }
 
+.talk-img {
+    max-height:400px;
+    width: auto;
+    height: auto;
+    /* border: 1px solid #a8a8a8; */
+}
+
 .publications{
   background-color: #fff;
 }
