@@ -118,7 +118,7 @@ hr {
 }
 
 .pub-img {
-    max-height:500px;
+    max-height:350px;
     width: auto;
     height: auto;
 }
@@ -221,10 +221,6 @@ hr {
   color: #3FA9F5;
 }
 
-/* .navbar-brand{
-  color: #fff;
-} */
-
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled {
   background-color: #fff !important;
   transition: background-color 200 linear;
@@ -268,6 +264,14 @@ h4{
 
   h1 {
     /* font-size: rem; */
+  }
+
+  h2{
+
+  }
+
+  h4{
+    
   }
 
   .logo_img {
