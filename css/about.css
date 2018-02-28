@@ -47,8 +47,6 @@ hr {
 }
 
 .tech-tag {
-  /* font-size: 1rem; */
-  /* letter-spacing: -0.1rem; */
   background-color: #0364A6;
   color: #fff;
 }
@@ -100,7 +98,7 @@ hr {
 }
 
 .talk-img {
-    max-height:280px;
+    max-height:300px;
     width: auto;
     height: auto;
     /* border: 1px solid #a8a8a8; */
@@ -262,20 +260,75 @@ h4{
 
 @media screen and (max-width: 768px) {
 
-  h1 {
-    /* font-size: rem; */
+  .up-margin{
+    margin-top: 15%;
   }
 
-  h2{
+}
 
+@media screen and (max-width: 992px) {
+
+
+
+  h1 {
+    font-size: 1.9rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  .hovereffect h2{
+    font-size: 1.8rem;
+    line-height: 3rem;
+    text-align: center;
   }
 
   h4{
-    
+    font-size: 1rem;
+  }
+
+  .icon {
+    width:14%;
+    height:14%;
   }
 
   .logo_img {
     width:40%;
     height:40%;
   }
+
+  .pub-img {
+      max-height:200px;
+      width: auto;
+      height: auto;
+  }
+
+  .award-img {
+      max-height:300px;
+      width: auto;
+      height: auto;
+      border: 1px solid #a8a8a8;
+  }
+
+  .chta-img {
+      max-width:92%;
+      width: auto;
+      height: auto;
+  }
+
+  .talk-sm-img {
+      max-height:100px;
+      width: auto;
+      height: auto;
+      /* border: 1px solid #a8a8a8; */
+  }
+
+  .talk-img {
+      max-height:200px;
+      width: auto;
+      height: auto;
+      /* border: 1px solid #a8a8a8; */
+  }
+
 }
