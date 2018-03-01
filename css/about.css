@@ -23,7 +23,7 @@ body {
 .about {
   height:100%;
   background-color: none;
-  background: url(../img/about_bg.png);
+  background: url(../img/about_bg.jpg);
   background-size:cover;
   background-position: center;
 }
