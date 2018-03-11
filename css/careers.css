@@ -6,7 +6,7 @@ body,html {
 }
 
 body {
-  background-color: #fff;
+  background-color: red;
   position: relative;
 }
 
@@ -54,7 +54,7 @@ h1 {
 }
 
 h4{
-  font-size:1.6rem;
+  font-size:1.2rem;
 }
 
 .footer {
@@ -71,6 +71,12 @@ p {
   font-size: 1.2rem;
 }
 
+#openings {
+  background-color: #e9e9e9;
+}
+
+
+/* Navbar section */
 
 .navbar {
   font-family: "Lato", sans-serif;
@@ -151,26 +157,4 @@ p {
     font-size:1.1rem;
   }
 
-}
-
-
-
-/* below are not neede yet */
-
-
-
-
-hr {
-  border: none;
-}
-
-.tech-tab{
-  font-size: 2rem;
-  color: #0364A6;
-}
-
-
-
-.half-width{
-    width:50%;
 }
