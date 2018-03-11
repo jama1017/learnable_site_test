@@ -13,13 +13,13 @@ body {
 .careers {
   height:100%;
   background-color: none;
-  background: url(../img/about_bg.jpg);
+  background: url(../img/career_bg.jpg);
   background-size:cover;
   background-position: center;
 }
 
 .dark-overlay {
-  background-color: rgba(11,11,11,0.5);
+  background-color: rgba(7,29,59,0.7);
   position:absolute;
   top:0;
   left:0;
@@ -27,6 +27,32 @@ body {
   width:100%;
   height:100%;
 }
+
+.btn-primary, .btn-primary:active{
+  background-color: #3FA9F5;
+  border: #3FA9F5;
+  border-radius: 20px;
+  font-size: 1.2rem;
+}
+
+.wwd{
+  background-color: #fff;
+}
+
+.line{
+  width: 100%;
+  border-bottom: 1px solid;
+}
+
+.icon {
+  width:7%;
+  height:7%;
+}
+
+
+
+
+
 
 hr {
   border: none;
@@ -37,24 +63,13 @@ hr {
   color: #0364A6;
 }
 
-.icon {
-  width:7%;
-  height:7%;
-}
+
 
 .half-width{
     width:50%;
 }
 
-.awards{
-  background-color: #fff;
-}
 
-.line{
-  width: 100%;
-  border-bottom: 1px solid;
-  /* position: absolute; */
-}
 
 .award-img {
     max-height:500px;
