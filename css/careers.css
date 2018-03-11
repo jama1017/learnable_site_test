@@ -108,7 +108,13 @@ p {
   color: #3FA9F5;
 }
 
+.card-header:hover {
+  color: #3FA9F5;
+}
 
+.card-header:active {
+  color: #3FA9F5;
+}
 
 
 
