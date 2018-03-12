@@ -688,5 +688,14 @@
     <!-- custom js -->
     <script src="js/main.js"></script>
 
+    <!-- solution to accordion not functioning on iphone -->
+    <script>
+    $('.card-header').on('click', function () {
+        $($(this).data('target')).collapse('toggle');
+    });
+    </script>
+
+
+
   </body>
 </html>

@@ -76,9 +76,9 @@ p {
   overflow: hidden;
 }
 
-a[data-toggle="collapse"]{
+/* a[data-toggle="collapse"]{
   cursor:pointer;
-}
+} */
 
 .nav-tabs--vertical {
   display: -webkit-box;
