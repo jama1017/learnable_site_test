@@ -1,7 +1,9 @@
-# For security reasons, Option followsymlinks cannot be overridden.
-#Options +FollowSymLinks
-Options +SymLinksIfOwnerMatch
+## hide .html extension
+# To externally redirect /dir/file.html to /dir/file
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
+RewriteRule ^ /%1 [R=302,L,NE]
 
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.html [NC,L]
+# To internally forward /dir/file to /dir/file.html
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1\.html -f [NC]
+RewriteRule ^(.+?)/?$ /$1.html [L]
