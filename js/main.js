@@ -15,3 +15,8 @@
  });
 
 })(jQuery); // End of use strict
+
+//script to load navbar.html
+$(function(){
+  $("#nav-placeholder").load("navbar.html");
+});
