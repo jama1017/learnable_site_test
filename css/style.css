@@ -30,7 +30,7 @@ h3 {
   font-size: 1.9rem;
 }
 
-p {
+p.card-text {
   font-size: 1.2rem;
 }
 
@@ -47,7 +47,7 @@ p {
     width: 100%;
     height: 100%;}
 
-  p {
+  p.card-text {
     font-size:0.9rem;
   }
 
