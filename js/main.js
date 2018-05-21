@@ -16,7 +16,8 @@
 
 })(jQuery); // End of use strict
 
-//script to load navbar.html
+//script to load navbar.html and footer.html
 $(function(){
   $("#nav-placeholder").load("navbar.html");
+  $("#footer-placeholder").load("footer.html");
 });
