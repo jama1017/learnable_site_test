@@ -14,6 +14,7 @@ h1 {
 }
 
 .ecr-section {
+  /* solved horizontal cut-off issue */
   height: auto;
   min-height: 100% !important;
   background-color: #fff;
