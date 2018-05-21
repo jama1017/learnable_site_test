@@ -2,8 +2,13 @@
   font-family: "Lato", sans-serif;
 }
 
+.navbar.navbar-expand-lg.navbar-dark.fixed-top{
+  box-shadow: 0px 2px 20px #dadada;
+  background-color: white;
+}
+
 .navbar.navbar-expand-lg.navbar-dark .nav-link{
-  color: #fff;
+  color: #000;
 }
 
 .navbar.navbar-expand-lg.navbar-dark .nav-link.active{
@@ -14,28 +19,6 @@
   color: #3FA9F5;
 }
 
-.navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled {
-  background-color: #fff !important;
-  transition: background-color 200 linear;
-  box-shadow: 0px 2px 20px #dadada;
-}
-
-.navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled .nav-link{
-  color: #000;
-}
-
-.navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled .nav-link.active{
-  color: #3FA9F5;
-}
-
-.navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled .nav-link:hover{
-  color: #3FA9F5;
-}
-
-/* .navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled .navbar-brand{
-  color: #fff;
-} */
-
-.navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled .navbar-toggler{
+.navbar.navbar-expand-lg.navbar-dark.fixed-top .navbar-toggler{
   background-color: #0364A6;
 }
