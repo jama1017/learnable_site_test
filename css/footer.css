@@ -7,3 +7,18 @@
   color:#dadada;
   font-size: 12px;
 }
+
+p {
+  font-size: 1.2rem;
+}
+
+/* 992px is medium sreen size */
+@media screen and (max-width: 992px) {
+  p {
+    font-size:0.9rem;
+  }
+
+  h5 {
+    font-size:1.1rem;
+  }
+}

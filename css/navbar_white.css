@@ -14,10 +14,6 @@
   color: #3FA9F5;
 }
 
-/* .navbar-brand{
-  color: #fff;
-} */
-
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.scrolled {
   background-color: #fff !important;
   transition: background-color 200 linear;
