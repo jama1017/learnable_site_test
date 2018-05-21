@@ -3,22 +3,34 @@
   background: #0E346B
 }
 
+.footer-info {
+  font-size:1.2rem;
+}
+
+.footer-info p {
+  font-size: 1.2rem;
+}
+
 .copyright {
   color:#dadada;
   font-size: 12px;
 }
 
-p {
-  font-size: 1.2rem;
+#contact p{
+  font-size: 12px;
 }
 
 /* 992px is medium sreen size */
 @media screen and (max-width: 992px) {
-  p {
-    font-size:0.9rem;
-  }
-
   h5 {
     font-size:1.1rem;
+  }
+
+  .footer-info p {
+    font-size: 0.9rem;
+  }
+
+  .footer-info {
+      font-size:0.9rem;
   }
 }

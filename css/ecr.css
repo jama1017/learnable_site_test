@@ -13,10 +13,6 @@ h1 {
   letter-spacing: 0.2rem;
 }
 
-.navbar {
-  font-family: "Lato", sans-serif;
-}
-
 .ecr-section {
   height:100%;
   background-color: #fff;
@@ -51,10 +47,6 @@ hr {
     border: none;
 }
 
-.footer-info {
-  font-size:1.2rem;
-}
-
 .arrow {
   color: #dadada;
 }
@@ -78,10 +70,6 @@ hr {
     font-size: 1.2em;
   }
 
-  .footer-info {
-    font-size:0.9rem;
-  }
-
   h2 {
     font-size:1.3rem;
   }
@@ -90,53 +78,8 @@ hr {
     font-size:0.8rem;
   }
 
-  h5 {
-    font-size:1.1rem;
-  }
-
-  .footer-info p {
-    font-size: 0.9rem;
-  }
 }
 
 h3 {
   font-size: 1.9rem;
-}
-
-.navbar.navbar-expand-lg.navbar-dark.fixed-top{
-  box-shadow: 0px 2px 20px #dadada;
-}
-
-.navbar.navbar-expand-lg.navbar-dark .nav-link{
-  color: #000;
-}
-
-.navbar.navbar-expand-lg.navbar-dark .nav-link.active{
-  color: #3FA9F5;
-}
-
-.navbar.navbar-expand-lg.navbar-dark .nav-link:hover{
-  color: #3FA9F5;
-}
-
-.navbar.navbar-expand-lg.navbar-dark.fixed-top .navbar-toggler{
-  background-color: #0364A6;
-}
-
-.footer {
-  color:#fff;
-  background: #0E346B
-}
-
-.footer-info p {
-  font-size: 1.2rem;
-}
-
-.copyright {
-  color:#dadada;
-  font-size: 12px;
-}
-
-#contact p{
-  font-size: 12px;
 }

@@ -30,6 +30,10 @@ h3 {
   font-size: 1.9rem;
 }
 
+p {
+  font-size: 1.2rem;
+}
+
 /* 992px is medium sreen size */
 @media screen and (max-width: 992px) {
 
@@ -43,9 +47,9 @@ h3 {
     width: 100%;
     height: 100%;}
 
-  /* p {
+  p {
     font-size:0.9rem;
-  } */
+  }
 
   h2 {font-size:1.3rem;}
 
