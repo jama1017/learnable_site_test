@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 216 216" style="enable-background:new 0 0 216 216;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#84DBFF;}
+	.st1{fill:#FFFFFF;stroke:#3FA9F5;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:#3FA9F5;}
+	.st3{display:none;}
+	.st4{display:inline;fill:#FFFFFF;}
+	.st5{fill:#3FA8F5;}
+	.st6{fill:#E6E9EE;}
+	.st7{fill:#0E346B;}
+</style>
+<circle class="st0" cx="108" cy="108" r="254"/>
+<path class="st1" d="M180,211.1H36c-5.9,0-10.6-4.7-10.6-10.6V15.1c0-5.9,4.7-10.6,10.6-10.6h144c5.9,0,10.6,4.7,10.6,10.6v185.7
+	C190.5,206.4,185.9,211.1,180,211.1z"/>
+<path class="st2" d="M190.5,37.4V15.1c0-5.7-4.7-10.3-10.3-10.3H35.8c-5.7,0-10.3,4.7-10.3,10.3v22.4
+	C25.5,37.4,190.5,37.4,190.5,37.4z"/>
+<g class="st3">
+	<circle class="st4" cx="212.8" cy="-33.6" r="12"/>
+	<circle class="st4" cx="180.4" cy="-33.6" r="12"/>
+	<circle class="st4" cx="148" cy="-33.6" r="12"/>
+</g>
+<g>
+	<path class="st5" d="M80,96.6H44.9c-1.5,0-2.5-1.2-2.5-2.5V58.8c0-1.5,1.2-2.5,2.5-2.5H80c1.5,0,2.5,1.2,2.5,2.5v35.1
+		C82.5,95.4,81.5,96.6,80,96.6z M47.3,91.5h30v-30h-30V91.5z"/>
+	<path class="st5" d="M80,151.9H44.9c-1.5,0-2.5-1.2-2.5-2.5v-35.1c0-1.5,1.2-2.5,2.5-2.5H80c1.5,0,2.5,1.2,2.5,2.5v35.1
+		C82.5,150.9,81.5,151.9,80,151.9z M47.3,146.7h30v-30h-30V146.7z"/>
+</g>
+<g>
+	<rect x="95.7" y="56.3" class="st6" width="78.1" height="4.7"/>
+	<rect x="95.7" y="66.9" class="st6" width="78.1" height="4.7"/>
+	<rect x="95.7" y="77.7" class="st6" width="78.1" height="4.7"/>
+	<rect x="95.7" y="88.5" class="st6" width="43.7" height="4.7"/>
+	<rect x="95.7" y="111.6" class="st6" width="78.1" height="4.7"/>
+	<rect x="95.7" y="122.4" class="st6" width="78.1" height="4.7"/>
+	<rect x="95.7" y="133" class="st6" width="78.1" height="4.7"/>
+	<rect x="95.7" y="143.8" class="st6" width="43.7" height="4.7"/>
+</g>
+<g>
+	<path class="st7" d="M57.9,85.8c-0.5,0-1-0.5-1.5-1l-4.7-6.1c-0.7-1-0.7-2.7,0.5-3.4c1-0.7,2.7-0.7,3.4,0.5l2.7,3.4l8.8-13
+		c0.7-1.2,2.2-1.5,3.4-0.7c1.2,0.7,1.5,2.2,0.7,3.4l-10.8,16c-0.5,0.7-1.2,1-2,1C58.4,85.8,58.1,85.8,57.9,85.8z"/>
+	<path class="st7" d="M57.9,142.1c-0.5,0-1-0.5-1.5-1l-4.7-6.1c-0.7-1-0.7-2.7,0.5-3.4c1-0.7,2.7-0.7,3.4,0.5l2.7,3.4l8.8-13
+		c0.7-1.2,2.2-1.5,3.4-0.7c1.2,0.7,1.5,2.2,0.7,3.4l-10.8,16c-0.5,0.7-1.2,1-2,1C58.4,142.3,58.1,142.1,57.9,142.1z"/>
+</g>
+</svg>
